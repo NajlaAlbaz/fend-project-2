@@ -3,7 +3,7 @@
 June 21, 2020
 
 ### Project overview
-The purpose of this project is to implement recently learned Javascript to create an interavtive web page
+The purpose of this project is to implement recently learned Javascript to create an interactive web page
 
 ### Project requirements
 * create a nav dynamically using JS
