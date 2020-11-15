@@ -11,4 +11,4 @@ The purpose of this project is to implement recently learned Javascript to creat
 * the nav item changes state depending on which section is viewed while scrolling
 * everything should be written from scratch
 
-## You can access this project anywhere through [najlaalbaz.com/landing-page](http://www.najlaalbaz.com/landing-page)
+## You can access this project anywhere through [najlaalbaz.com/landing_page/index.html](http://www.najlaalbaz.com/landing_page/index.html)
